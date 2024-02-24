@@ -1,0 +1,15 @@
+.customStyleOne,
+.customStyleTwo {
+    font-family: Helvetica, "Times New Roman", sans-serif;
+    font-size: 28px;
+}
+
+.customStyleOne {
+    background-color: #ffa500;
+    color:#ffffff;
+    font-weight: bold;
+}
+
+.customStyleTwo {
+    background-color: #800080;
+}
